@@ -1,3 +1,4 @@
+# Otro ejemplo de un falso case con cervezas
 def opciones():
 
     cerveza = str.lower(input('Introduzca la marca de cerveza: \r\n'))
