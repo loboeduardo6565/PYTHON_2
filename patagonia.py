@@ -1,5 +1,5 @@
 
-
+# Ejemplo cerveza
 def app():
     cerveza_tipo = 'Patagonia'
     toma_cerveza = True
