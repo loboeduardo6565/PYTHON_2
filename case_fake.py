@@ -1,4 +1,4 @@
-# crear una función
+# Ejemplo de un falso case
 def switch(CPU):
  
   # definition of the dictionary
