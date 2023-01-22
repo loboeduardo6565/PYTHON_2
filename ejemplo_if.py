@@ -1,3 +1,4 @@
+# Definición de función y condicional if numeros pares
 def app():
     print('Introduzca un número entero')
     numero = int(input()) # Como preciso un número entero defino la entrada de tipo entero
