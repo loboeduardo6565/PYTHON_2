@@ -1,5 +1,5 @@
 
-#Lista
+#Lista y bucle for
 repuestos = ["Amortiguadores","Alternadores","Muñones","Tripoides","Terminales"]
 
 """ # Recorriendo la lista
